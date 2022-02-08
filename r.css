@@ -1,0 +1,216 @@
+p{
+    color:;
+    
+    border-color: red;
+    box-shadow: royalblue;
+    
+    background-color: cadetblue;
+    border-style: solid;
+    text-align: center;
+    
+    }
+    
+    
+    h1{
+    background-color:yellow;
+    color: darkslategray;
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bold;
+    }
+    
+    h2{
+    color: goldenrod;
+    background-color: maroon;
+    }
+    
+    h3{
+    color: mediumturquoise;
+    background: pink;
+    font-size: larger;
+    font-style: italic;
+    }
+    #ravi{
+        color: salmon;
+        background-color: steelblue;
+    }
+    h6, H5, H4{
+    color:#b9a4a4;
+    background:black;
+    font-size: 50px;
+    font-style: italic;
+    
+    }
+    form{
+    color:black;
+    background-color: red;
+    border:blueviolet
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+    border-style: solid;
+    
+    
+    }
+    
+    img{
+    border: skyblue;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 25px;
+    
+    }
+    .mmm{
+    color: red;
+    background-color: black;
+    font-style: solid;
+    border-color: chartreuse;
+    border-style: solid;
+    }
+    
+    ol{
+    color: coral;
+    background: cornsilk;
+    font-family: cursive;
+    border-color: darkgreen;
+    font-style: italic;
+    border-style: solid;
+    }
+    
+    a{
+    color: black;
+    background: red;
+    font-style: normal;
+    border-style: solid;
+    border-color:blanchedalmond;
+    border-radius: 50px;}
+
+    .cod{
+border-color: blue;
+border-style: solid;
+background-color: darksalmon;
+margin-top: 40px;
+margin-bottom: 40px;
+margin-left: 40px;
+height: 80px;
+box-sizing: border-box;
+text-align: left;
+}
+.www{
+color: black;
+background-color: darkmagenta;
+border-style: solid;
+font-style: italic;
+padding: 34px;
+margin: 34px auto;
+width: 666px;
+
+font-size: larger;
+}
+
+.q{
+color: red;
+background-color:wheat;
+padding: 06px;
+font-style: italic;
+
+
+font-family: cursive;
+}
+a:hover{
+color:darkslategrey;
+}
+
+.navbar{
+background-color:palevioletred;
+color:skyblue;
+font-size: larger;
+font-style: italic;
+border-radius: 40px;
+margin: 50PX ;
+
+}
+
+.navbar li {
+float: left;
+list-style: none;
+margin: 30px;
+border-color: dimgrey;
+border-style: inset;
+}
+
+.navbar li a:hover{
+color: aquamarine;
+}
+.navbar ul{
+    
+    overflow: auto;
+    
+    
+}
+.navbar input{
+border-radius: 5px;
+border-color: black;
+margin: 50px 180px;
+padding: 5px;
+border-style: solid;
+color: blue;
+}
+
+.boxer{
+color: white;
+
+padding: 30px;
+font-size: x-large;
+font-style: italic;
+font-family: cursive;
+margin: 30px 40px;
+display: inline-block;
+width: 400px;
+box-sizing: border-box;
+background-color: cadetblue;
+}
+.container{
+margin:auto;
+height: 3444px;
+background-image: url("image/rav.jpg.jpg");
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
